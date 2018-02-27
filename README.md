@@ -15,7 +15,7 @@ Usage in controller:
 app.controller('exampleCtrl', function($state, $history) {
 
 	this.onGoBack = () => {
-		// use history service
+		// use $history service
 		$history.go(-1)
 		$history.back()
 
