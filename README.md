@@ -1,4 +1,4 @@
-# ui-router-history
+# angular-ui-router-history
 
 Angular.js module for adding history support to UI-Router 1.x
 

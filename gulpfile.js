@@ -7,7 +7,7 @@ const iife = require('gulp-iife')
 const cfg = {
 	src: './src/**',
 	dist: './dist/',
-	name: 'ui-router-history',
+	name: 'angular-ui-router-history',
 	babel: {
 		presets: ['env'],
 	},

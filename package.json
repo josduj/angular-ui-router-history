@@ -1,15 +1,15 @@
 {
-  "name": "ui-router-history",
+  "name": "angular-ui-router-history",
   "version": "1.0.0",
   "description": "Angular.js module for adding history support to UI-Router 1.x",
-  "main": "dist/ui-router-history.min.js",
+  "main": "dist/angular-ui-router-history.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josduj/ui-router-history.git"
+    "url": "git+https://github.com/josduj/angular-ui-router-history.git"
   },
   "keywords": [
     "history",
@@ -19,9 +19,9 @@
   "author": "josduj",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josduj/ui-router-history/issues"
+    "url": "https://github.com/josduj/angular-ui-router-history/issues"
   },
-  "homepage": "https://github.com/josduj/ui-router-history#readme",
+  "homepage": "https://github.com/josduj/angular-ui-router-history#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
